@@ -1,0 +1,17 @@
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\contacts_windowsform.exe.config
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\contacts_windowsform.exe
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\contacts_windowsform.pdb
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.csprojAssemblyReference.cache
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.Properties.Resources.resources
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.csproj.GenerateResource.cache
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.csproj.CoreCompileInputs.cache
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.exe
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.pdb
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.mainform.resources
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.addform.resources
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.editform.resources
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\EntityFramework.dll
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\EntityFramework.SqlServer.dll
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\EntityFramework.xml
+D:\c# course\contacts_windowsform\contacts_windowsform\bin\Debug\EntityFramework.SqlServer.xml
+D:\c# course\contacts_windowsform\contacts_windowsform\obj\Debug\contacts_windowsform.csproj.CopyComplete
